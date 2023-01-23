@@ -1,5 +1,5 @@
 # fedora
-customization of fedora
+customization on top of <https://hub.docker.com/_/fedora>
 
 ## Usage
 
